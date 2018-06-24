@@ -1,3 +1,5 @@
 <?php
- echo "Hello World"
- ?>
+ // This is a a simple output statement
+echo "Hello World"
+
+?>
